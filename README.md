@@ -57,5 +57,5 @@ We leverage cutting-edge technologies to deliver the best user experience:
 
 <div align="center">
   <p><em>Building the future, one crate at a time.</em></p>
-  <p>© 2024 WRVbit</p>
+  <p>© 2026 WRVbit</p>
 </div>
