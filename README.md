@@ -1,75 +1,61 @@
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WRVbit/WRVbit/main/banner.png" width="100%" alt="WRVbit Banner" />
+  <h1>WRVbit</h1>
+  <p><strong>Redefining the Linux Desktop Experience</strong></p>
   
-  <br />
-  
-  <h1>Hi there, I'm <span style="color: #00f2ff">WRVbit</span> 👋</h1>
-  <h3>Crafting Beautiful Modern Linux Experiences</h3>
-
   <p>
     <a href="https://github.com/WRVbit">
-      <img src="https://img.shields.io/github/followers/WRVbit?label=Followers&style=for-the-badge&color=2e3440&labelColor=23aa4e" alt="Followers" />
+      <img src="https://img.shields.io/badge/Stack-Rust%20%7C%20Svelte%20%7C%20Tauri-orange?style=for-the-badge&logo=rust" alt="Tech Stack" />
     </a>
-    <a href="https://twitter.com/">
-      <img src="https://img.shields.io/twitter/follow/WRVbit?label=Twitter&style=for-the-badge&color=2e3440&labelColor=1da1f2" alt="Twitter" />
+    <a href="https://github.com/WRVbit">
+      <img src="https://img.shields.io/badge/Focus-Performance%20%26%20Design-blue?style=for-the-badge" alt="Focus" />
     </a>
   </p>
 </div>
 
 ---
 
-### 🚀 **Featured Project:** Glance
+## 🚀 About Us
 
-> **A Next-Generation System Optimizer for Linux**
+Welcome to **WRVbit**. We are a forward-thinking development organization dedicated to building the next generation of Linux applications. Our mission is to combine the **raw performance and safety of Rust** with the **modern, reactive UI capabilities of Svelte**, delivered through the lightweight **Tauri** framework.
 
-<div align="center">
-  <br />
-  <a href="https://github.com/WRVbit/glance">
-    <img src="https://github.com/WRVbit/glance/raw/master/assets/screenshots/screenshot-10.png" width="800" alt="Glance Dashboard" style="border-radius: 10px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);" />
-  </a>
-  <br />
-  <br />
-  
-  [![Flathub](https://img.shields.io/badge/Available%20on-Flathub-blue?style=for-the-badge&logo=flathub)](https://flathub.org/apps/com.github.WRVbit.glance)
-  [![GitHub Release](https://img.shields.io/github/v/release/WRVbit/glance?style=for-the-badge&label=Latest%20Release&color=orange)](https://github.com/WRVbit/glance/releases)
-  [![License](https://img.shields.io/github/license/WRVbit/glance?style=for-the-badge)](https://github.com/WRVbit/glance/blob/master/LICENSE)
-
-</div>
-
-**Glance** is a powerful system monitoring and optimization tool built with **Tauri (Rust)** and **Svelte 5**. It features a stunning glassmorphism UI and gives you total control over your Linux system.
+We believe that native desktop applications should be beautiful, fast, and resource-efficient. We are strictly moving away from heavy Electron-based apps to providing purely native-feeling experiences that respect your hardware.
 
 ---
 
-### 💻 **Tech Stack**
+## 🛠️ Technology Stack
 
-<div align="center">
-  <!-- System & Backend -->
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <br />
-  <!-- Scripting & Frontend -->
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+We leverage cutting-edge technologies to deliver the best user experience:
+
+- **Core Logic:** [Rust](https://www.rust-lang.org/) 🦀 - For memory safety, concurrency, and blazing speed.
+- **Frontend Framework:** [Svelte](https://svelte.dev/) 🧡 - For truly reactive, compiler-optimized user interfaces.
+- **Application Runtime:** [Tauri](https://tauri.app/) 🌟 - For secure, tiny, and fast native application bundles.
+- **Type Safety:** [TypeScript](https://www.typescriptlang.org/) 📘 - For robust and maintainable codebase.
 
 ---
 
-### 📊 **GitHub Stats**
+## 🗺️ Roadmap & Vision
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WRVbit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WRVbit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
+### 🟢 Current Projects
+- **[Nova App Store](https://github.com/WRVbit/Nova-appstore)**: A modern, unified software center for Linux. Supports Flatpak, native system packages, and local installations with a stunning glassmorphic UI.
+
+### 🟡 In Development / Planned
+- **Propa File Manager**: A highly performant, customizable file manager with advanced features like column view, Miller columns, and deep system integration.
+- **System Utilities Suite**: A collection of essential system tools (System Monitor, Settings, Network Manager) built with our signature aesthetic and performance goals.
+
+### 🔵 Long-Term Vision
+- **Nova Desktop Environment (DE)**: Our ultimate goal is to architect a complete, Rust-based Desktop Environment. A DE that is not only visually breathtaking but also rock-solid, secure, and incredibly responsive. Imagine a desktop where every component, from the compositor to the shell, is written in Rust.
+
+---
+
+## 🤝 Philosophy
+
+1.  **Performance First:** No compromises on speed. If it's slow, it's a bug.
+2.  **Visual Excellence:** Linux apps shouldn't look like they're from the 90s. We strive for pixel-perfect, modern designs.
+3.  **Open & Transparent:** All our code is open-source. We build with the community, for the community.
 
 ---
 
 <div align="center">
-  <i>"Simplicity is the ultimate sophistication."</i>
+  <p><em>Building the future, one crate at a time.</em></p>
+  <p>© 2024 WRVbit</p>
 </div>
