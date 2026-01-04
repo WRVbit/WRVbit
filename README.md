@@ -36,11 +36,22 @@ We leverage cutting-edge technologies to deliver the best user experience:
 ## 🗺️ Roadmap & Vision
 
 ### 🟢 Current Projects
-- **[Nova App Store](https://github.com/WRVbit/Nova-appstore)**: A modern, unified software center for Linux. Supports Flatpak, native system packages, and local installations with a stunning glassmorphic UI.
 
-### 🟡 In Development / Planned
-- **Propa File Manager**: A highly performant, customizable file manager with advanced features like column view, Miller columns, and deep system integration.
-- **System Utilities Suite**: A collection of essential system tools (System Monitor, Settings, Network Manager) built with our signature aesthetic and performance goals.
+#### [Nova App Store](https://github.com/WRVbit/Nova-appstore) 🔒
+**Status:** `Production Ready` | **Stack:** Tauri, Svelte, Rust
+A modern, unified software center for Linux. Supports Flatpak, native system packages, and local installations with a stunning glassmorphic UI.
+
+#### [Nova File Manager](https://github.com/WRVbit/Nova-filemanager) 🔒
+**Status:** `Active Dev` | **Stack:** Tauri, Svelte, Rust
+A highly performant, customizable file manager inspired by the best features of modern explorers, featuring advanced view modes and deep system integration.
+
+#### [Nova Terminal](https://github.com/WRVbit/Nova-terminal) 🔒
+**Status:** `Active Dev` | **Stack:** Rust, Iced
+A modern, GPU-accelerated terminal emulator built for speed and beauty. Designed to be the fastest and most customizable terminal on the Linux desktop.
+
+#### [Glance](https://github.com/WRVbit/glance) 🌍
+**Status:** `Public` | **Stack:** Rust, Tauri
+A quick-preview utility for files, allowing you to peek at file contents without opening them fully.
 
 ### 🔵 Long-Term Vision
 - **Nova Desktop Environment (DE)**: Our ultimate goal is to architect a complete, Rust-based Desktop Environment. A DE that is not only visually breathtaking but also rock-solid, secure, and incredibly responsive. Imagine a desktop where every component, from the compositor to the shell, is written in Rust.
